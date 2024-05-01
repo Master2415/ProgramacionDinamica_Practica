@@ -5,6 +5,8 @@ public class Main {
     public static void pascal(int n, int k){
         TrianguloPascal trianguloPascal = new TrianguloPascal();
 
+        System.out.println("El resultado de f(" + n + ", " + k + ") es: " + trianguloPascal.recursivo(n, k));
+        System.out.println("El resultado de f(" + n + ", " + k + ") es: " + trianguloPascal.iterativo(n, k));
         System.out.println("El resultado de f(" + n + ", " + k + ") es: " + trianguloPascal.memorizacion(n, k));
     }
 
@@ -12,7 +14,7 @@ public class Main {
         Punto1 punto1 = new Punto1();
         
         for (int i = 0; i <= n; i++) {
-            System.out.println(" F(" + i + ") = " + punto1.tabulacion(i));
+            System.out.print(" (n=" + i + ")= "+ punto1.recursivo(i));
         }
     }
 
@@ -39,13 +41,13 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        int n = 5; 
+        int n = 10;
         int k = 3;
 
         //punto1(n, k);
-        //punto2(n, k);
+            punto2(n, k);
         //punto3(n, k);
         //punto4(n, k);
-        pascal(n, k);
+        //pascal(n, k);
     }
 }

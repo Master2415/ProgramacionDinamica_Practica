@@ -2,19 +2,19 @@ package ProgramacionDinamica;
 
 public class Punto1 {
 
-    public int calcularPunto1Recursivo(int n){
+    public int recursivo(int n){
         if(n == 0){
             return 3;
         }else if (n == 1){
             return 2;
         }else if (n > 1){
-            return calcularPunto1Recursivo(n-1) + calcularPunto1Recursivo(n-2);
+            return recursivo(n-1) + recursivo(n-2);
         }
 
         return n;
     }
 
-    public int punto1Iterativo(int n){
+    public int iterativo(int n){
         int valor = 0;
 
         if(n == 0){
