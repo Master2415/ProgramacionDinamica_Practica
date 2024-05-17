@@ -2,6 +2,12 @@ package ProgramacionDinamica;
 
 public class Main {
 
+    public static void mostrar_cualquier_matriz(int n, int k){
+        //Punto6 punto6 = new Punto6();
+        //int[][] matriz = punto6.iterativo(n, k);
+        //mostrarMatriz(matriz);
+    }
+
     public static void pascal(int n, int k){
         TrianguloPascal trianguloPascal = new TrianguloPascal();
 
@@ -40,14 +46,43 @@ public class Main {
         System.out.println("El resultado de f(" + n + ", " + k + ") es: " + resultado);
     }
 
+    public static void punto5(int n, int k){
+        Punto5 punto5 = new Punto5();
+        int resultado = punto5.recursivo(n, k);
+        System.out.println("El resultado de f(" + n + ", " + k + ") es: " + resultado);
+       
+    }
+
+    public static void punto6(int n, int k){
+        Punto6 punto6 = new Punto6();
+        int resultado = punto6.memorizacion(n, k);
+        System.out.println("El resultado de f(" + n + ", " + k + ") es: " + resultado);
+       
+    }
+
+
     public static void main(String[] args) {
-        int n = 10;
-        int k = 3;
+        int n = 5;
+        int k = 4;
 
         //punto1(n, k);
-            punto2(n, k);
+        //punto2(n, k);
         //punto3(n, k);
         //punto4(n, k);
+        punto5(n, k);
+        //punto6(n, k);
         //pascal(n, k);
+    }
+
+
+
+    private static void mostrarMatriz(int[][] matriz) {
+        System.out.println("Matriz generada:");
+        for (int i = 0; i < matriz.length; i++) {
+            for (int j = 0; j < matriz[i].length; j++) {
+                System.out.print(matriz[i][j] + "\t");
+            }
+            System.out.println();
+        }
     }
 }

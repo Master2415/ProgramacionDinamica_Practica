@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62304cc5-301f-4653-85bb-27e4eec3255d" name="Changes" comment="">
+    <list default="true" id="62304cc5-301f-4653-85bb-27e4eec3255d" name="Changes" comment="punto 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgramacionDinamica/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgramacionDinamica/TrianguloPascal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/TrianguloPascal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +42,12 @@
     &quot;assignee&quot;: &quot;Master2415&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="83997901-56dc-4486-830d-adae8ded135b" />
-        <option name="url" value="https://github.com/Master2415/ProgramacionDinamica_Practica.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Master2415/ProgramacionDinamica_Practica.git&quot;,
+    &quot;accountId&quot;: &quot;83997901-56dc-4486-830d-adae8ded135b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -67,6 +64,8 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DOUGLAS/Downloads/Metodos Multiplicacion/Metodos Multiplicacion&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -109,6 +108,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -122,6 +129,12 @@
       <workItem from="1714160865854" duration="506000" />
       <workItem from="1714189435850" duration="1134000" />
       <workItem from="1714410967776" duration="19000" />
+      <workItem from="1714569629543" duration="852000" />
+      <workItem from="1714643046171" duration="258000" />
+      <workItem from="1714645425617" duration="318000" />
+      <workItem from="1715030836670" duration="191000" />
+      <workItem from="1715113250348" duration="21000" />
+      <workItem from="1715114603847" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="punto 4">
       <option name="closed" value="true" />

@@ -46,7 +46,7 @@ public class TrianguloPascal {
             return arr[n][k]; 
         }
 
-        if(k > 0 && k < n)
+        if(k < n)
         arr[n][k] = memo(n-1, k-1, arr) + memo(n-1, k, arr);
         return arr[n][k];
     }
