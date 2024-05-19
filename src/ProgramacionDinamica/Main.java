@@ -3,9 +3,9 @@ package ProgramacionDinamica;
 public class Main {
 
     public static void mostrar_cualquier_matriz(int n, int k){
-        //Punto6 punto6 = new Punto6();
-        //int[][] matriz = punto6.iterativo(n, k);
-        //mostrarMatriz(matriz);
+        Punto9 punto9 = new Punto9();
+        int[][] matriz = punto9.misterio(n, k);
+        mostrarMatriz(matriz);
     }
 
     public static void pascal(int n, int k){
@@ -42,13 +42,13 @@ public class Main {
 
     public static void punto4(int n, int k){
         Punto4 punto4 = new Punto4();
-        int resultado = punto4.tabulacion(n, k);
+        int resultado = punto4.memorizacion(n, k);
         System.out.println("El resultado de f(" + n + ", " + k + ") es: " + resultado);
     }
 
     public static void punto5(int n, int k){
         Punto5 punto5 = new Punto5();
-        int resultado = punto5.recursivo(n, k);
+        int resultado = punto5.memo(n, k);
         System.out.println("El resultado de f(" + n + ", " + k + ") es: " + resultado);
        
     }
@@ -62,8 +62,8 @@ public class Main {
 
 
     public static void main(String[] args) {
-        int n = 5;
-        int k = 4;
+        int n = 3;
+        int k = 3   ;
 
         //punto1(n, k);
         //punto2(n, k);
@@ -71,6 +71,8 @@ public class Main {
         //punto4(n, k);
         punto5(n, k);
         //punto6(n, k);
+        //mostrar_cualquier_matriz(n, k);
+
         //pascal(n, k);
     }
 

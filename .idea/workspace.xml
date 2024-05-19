@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62304cc5-301f-4653-85bb-27e4eec3255d" name="Changes" comment="punto 4">
+      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto2/ListaCircular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto2/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto2/punto2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto3/ArbolBinarioBusqueda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto3/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto3/Punto3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto4/Optimizacion_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto5/Busqueda_Ternaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgramacionDinamica/TrianguloPascal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/TrianguloPascal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgramacionDinamica/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +78,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DOUGLAS/Downloads/Metodos Multiplicacion/Metodos Multiplicacion&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ALL/Codigos/WS_Java/Analisis_Algoritmos/EjerciciosPractica/untitled&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -135,6 +148,10 @@
       <workItem from="1715030836670" duration="191000" />
       <workItem from="1715113250348" duration="21000" />
       <workItem from="1715114603847" duration="2000" />
+      <workItem from="1715977956621" duration="199000" />
+      <workItem from="1715981074014" duration="81000" />
+      <workItem from="1715981964424" duration="19000" />
+      <workItem from="1716109285640" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="punto 4">
       <option name="closed" value="true" />

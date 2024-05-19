@@ -24,8 +24,8 @@ public class Punto4 {
            pp[i][i] = 3; // (n, k)
         }
         
-        for(int i = 2; i <= n; i++){ // comienza desde la tercera fila, filas anteriores = 3
-            for(int j = 1; j < i; j++){ // comienza desde la segunda columna, columna 1 = 3
+        for(int i = 2; i <= n; i++){ // comienza desde la tercera fila
+            for(int j = 1; j < i; j++){ // comienza desde la segunda columna
                 pp[i][j] = pp[i][j - 1] + pp[i - 1][j] + 2; 
             }
         }
