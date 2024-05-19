@@ -1,2 +1,0 @@
-2. Escriba un método iterativo para una lista sencilla circular que permita insertar un nodo de acuerdo con
-una posición determinada. Determine el orden de complejidad del método.

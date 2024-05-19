@@ -60,17 +60,33 @@ public class Main {
        
     }
 
+    public static void punto7(int n, int k){
+        Punto7 punto7 = new Punto7();
+        int resultado = punto7.memorizacion(n, k);
+        System.out.println("El resultado de f(" + n + ", " + k + ") es: " + resultado);
+       
+    }
+
+    public static void punto10(int n, int k){
+        Punto10 punto10 = new Punto10();
+        int resultado = punto10.memorizacion(n, k);
+        System.out.println("El resultado de f(" + n + ", " + k + ") es: " + resultado);
+       
+    }
+
 
     public static void main(String[] args) {
-        int n = 3;
-        int k = 3   ;
+        int n = 5;
+        int k = 4;
 
         //punto1(n, k);
         //punto2(n, k);
         //punto3(n, k);
         //punto4(n, k);
-        punto5(n, k);
+        //punto5(n, k);
         //punto6(n, k);
+        //punto7(n, k);
+        punto10(n, k);
         //mostrar_cualquier_matriz(n, k);
 
         //pascal(n, k);

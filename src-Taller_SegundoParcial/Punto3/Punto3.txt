@@ -1,3 +1,0 @@
-3. Dado un árbol binario de búsqueda.
-a. Escriba un método recursivo que permita eliminar un nodo en el árbol.
-b. Determine el tiempo de ejecución del método. R// O(logn)

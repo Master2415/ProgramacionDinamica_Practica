@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62304cc5-301f-4653-85bb-27e4eec3255d" name="Changes" comment="punto 4">
-      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto2/ListaCircular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto2/Nodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto2/punto2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto3/ArbolBinarioBusqueda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto3/Nodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto3/Punto3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto4/Optimizacion_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-Taller_SegundoParcial/Punto5/Busqueda_Ternaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgramacionDinamica/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramacionDinamica/Punto5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +73,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ALL\Codigos\WS_Java\Analisis_Algoritmos\EjerciciosPractica\untitled\src\Taller_SegundoParcial" />
+      <recent name="C:\ALL\Codigos\WS_Java\Analisis_Algoritmos\EjerciciosPractica\untitled\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Ejercicios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProgramacionDinamica.Ejercicios" />
@@ -151,7 +143,7 @@
       <workItem from="1715977956621" duration="199000" />
       <workItem from="1715981074014" duration="81000" />
       <workItem from="1715981964424" duration="19000" />
-      <workItem from="1716109285640" duration="330000" />
+      <workItem from="1716109285640" duration="565000" />
     </task>
     <task id="LOCAL-00001" summary="punto 4">
       <option name="closed" value="true" />

@@ -45,8 +45,8 @@ public class Punto6 {
 
             // Caso base: k == 0 o k == n
             for(int i = 0; i <= n; i++){
-            pp[i][0] = 2; // (n, 0)
-            pp[i][i] = 2; // (n, k)
+                pp[i][0] = 2; // (n, 0)
+                pp[i][i] = 2; // (n, k)
             }
             
             
