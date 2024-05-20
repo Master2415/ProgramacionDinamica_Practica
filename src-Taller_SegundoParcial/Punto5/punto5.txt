@@ -1,8 +1,0 @@
-En ciencias de la computación existe un algoritmo de búsqueda denominado búsqueda ternaria.
-
-Inicialmente el algoritmo compara con el elemento que se encuentra en la posición (n/3) del arreglo. Si
-este valor es menor que el elemento que se busca entonces se compara con el elemento que se encuentra
-en la posición (2n/3), y en caso que la búsqueda no coincida, entonces se busca de forma recursiva en el
-correspondiente sub arreglo de tamaño (1/3).
-
-a. Escriba un algoritmo divide y vencerás recursivo con la implementación de la búsqueda ternaria.
